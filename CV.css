@@ -1,0 +1,155 @@
+*
+{
+    margin: auto;
+    padding: 0;
+}
+
+#page
+{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+
+nav
+{
+    width: 30%;
+    height: 100vh;
+    background-color: orange;
+}
+
+#tour
+{
+    width: 86%;
+    height: 93vh;
+    background-color: white;
+}
+
+article
+{
+    width: 70%;
+    height: 100vh;
+}
+
+#photo
+{
+    width: 25vh;
+    height: 30vh;
+    display: block;
+    text-align: center;
+    margin-top: 4vh;
+    border-radius: 50vh;
+}
+
+h1, h3
+{
+    display: block;
+    text-align: center;
+}
+
+#containerInfos
+{
+    width: 100vh;
+    height: 40vh;
+    margin-top: 5vh;
+    display: flex;
+    flex-direction: row;
+}
+
+#gauche
+{
+    width: 15vh;
+    height:40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#droite
+{
+    width: 80vh;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.petit
+{
+    width: 15vh;
+    height: 8vh;
+    display: block;
+    text-align: center;
+    font-size: 45px;
+
+}
+
+.grand
+{
+    width: 40vh;
+    height: 8vh;
+    margin-left: 1px;
+}
+
+#haut
+{
+    width: 150vh;
+    height: 60vh;
+    display: flex;
+    flex-direction: row;
+}
+
+#gaucheDroite, #droiteDroite
+{
+    width: 70vh;
+    height: 55vh;
+    background-color: white;
+    border: 5px;
+    border-color: orange;
+    border-style: solid;
+    padding-left: 5px;
+}
+
+#bas
+{
+    width: 145vh;
+    height: 37vh;
+    background-color: white;
+    border: 5px;
+    border-color: orange;
+    border-style: solid;
+    display: flex;
+    flex-direction: row;
+}
+
+h5, #centre, p
+{
+    text-align: center;
+}
+
+#formations, #experiences
+{
+    margin-top: 15px;
+}
+
+p
+{
+    font-size: 14px;
+}
+
+#petitcontainer
+{
+    width: 44vh;
+    height: 34vh;
+}
+
+#livre
+{
+    width: 50px;
+    height: 50px;
+}
+
+.centrer
+{
+    margin-left: 100px;
+}
