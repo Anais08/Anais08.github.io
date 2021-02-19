@@ -379,6 +379,16 @@ nav
     margin-bottom: 3vh;
 }
 
+#affichebis
+{
+    width: 95%;
+    height: 80vh;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 3vh;
+}
 .affiche1
 {
     width: 29%;
