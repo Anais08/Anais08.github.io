@@ -878,8 +878,8 @@ a{
 
 .affiches
 {
-    width: auto;
-    height: 35vh;
+     width: 100%;
+    height: auto;
 }
 
 #affiche
