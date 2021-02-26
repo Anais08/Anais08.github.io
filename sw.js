@@ -51,9 +51,10 @@ self.addEventListener('install', function(event) {
                 'photoshop.png',
                 'Plaquette.jpg',
                 'POVF2.jpg',
-                'xd.png',
-		})
-	);
+                'xd.png'
+            ]);
+        })
+    );
 });
 
 self.addEventListener('fetch', (e) => {
